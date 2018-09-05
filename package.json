@@ -1,0 +1,46 @@
+{
+  "name": "arun",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "axios": "^0.17.1",
+    "native-echarts": "^0.4.0",
+    "prop-types": "^15.6.0",
+    "qs": "6.4.0",
+    "react": "16.0.0",
+    "react-native": "^0.50.3",
+    "react-native-3d-swiper": "^2.0.7",
+    "react-native-alipay-android-acinfo": "^1.0.1",
+    "react-native-alphabetlistview": "^0.2.0",
+    "react-native-datepicker": "^1.6.0",
+    "react-native-drawer": "^2.5.0",
+    "react-native-flexi-radio-button": "^0.2.2",
+    "react-native-image-crop-picker": "^0.18.1",
+    "react-native-indicator": "^0.7.0",
+    "react-native-line-gauge": "^1.2.1",
+    "react-native-picker": "^4.3.0",
+    "react-native-scrollable-tab-view": "^0.8.0",
+    "react-native-storage": "^0.2.2",
+    "react-native-swiper": "^1.5.13",
+    "react-native-wechat": "^1.9.9",
+    "react-navigation": "^1.0.0-beta.19",
+    "react-redux": "^5.0.6",
+    "redux": "^3.7.2",
+    "redux-thunk": "^2.2.0",
+    "simple-url": "^1.1.8",
+    "socket.io-client": "^2.0.4"
+  },
+  "devDependencies": {
+    "babel-jest": "22.0.3",
+    "babel-preset-react-native": "4.0.0",
+    "jest": "22.0.3",
+    "react-test-renderer": "16.0.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
